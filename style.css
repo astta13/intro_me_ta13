@@ -52,7 +52,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
   font: 22px/1.9 'けいふぉんと';
 	width: 70%;
 	margin: 70px auto;
-	font-size: 40px;
+	font-size: 50px;
 	font-weight:normal;
 	text-align: center;
 }
@@ -81,15 +81,28 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 #sidebar {
 	width: 50%;
-	font-size: 22px;
+	font-size: 25px;
 	font-weight:normal;
 	text-align: center;
 }
 
+#sidebar img{
+	margin: 10px 20px 20px;
+  border-radius: 50%;
+}
+
 #sidebar h2 {
-	width: 40%;
-	margin: 70px auto;
-	font-size: 30px;
+	width: 60%;
+	margin: 60px auto;
+	font-size: 35px;
+	font-weight:normal;
+	text-align: center;
+}
+
+#sidebar ul {
+width: 50%;
+	margin: 5px auto;
+	font-size: 20px;
 	font-weight:normal;
 	text-align: center;
 }
